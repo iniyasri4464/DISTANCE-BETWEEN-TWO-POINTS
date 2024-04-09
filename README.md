@@ -14,7 +14,9 @@ Print the result
 ### Step 5: 
 End the program
 ### PROGRAM:
-  ```
+```
+##Developed by:Iniyasri.s
+##Registered number:212223230081
 x1=4
 x2=10
 y1=2
@@ -25,7 +27,7 @@ print("{:0.2f}".format(distance))
 
 
 ### OUTPUT:
-![Screenshot 2024-03-11 211658](https://github.com/iniyasri4464/DISTANCE-BETWEEN-TWO-POINTS/assets/152419072/23d0d6aa-a2f1-4d77-97b8-226a9a26ae8b)
+![alt text](<Screenshot 2024-03-11 211603.png>)
 
 
 
